@@ -28,8 +28,8 @@ erDiagram
         int stockLevel
     }
     
-    PRODUCT ||--o{ INVENTORY : "is stocked in"
-    PRODUCT ||--o{ SALE : "is sold in"
+    PRODUCT ||--o{ INVENTORY: "is stocked in"
+    PRODUCT ||--o{ SALE: "is sold in"
     CUSTOMER ||--o{ SALE : "makes"
 # Nike Shoe Store ERD
 
