@@ -35,7 +35,6 @@ erDiagram
 
 ## Overview
 This Entity-Relationship Diagram (ERD) shows how the Nike shoe store database manages its operations. The database includes four main entities: **Products**, **Customers**, **Sales**, and **Inventory**. The relationships between these entities are designed to track customer purchases, manage stock levels, and link products to sales.
-
 ## Entities and Relationships
 
 1. **Products**:
