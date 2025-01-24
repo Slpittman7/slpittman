@@ -9,6 +9,8 @@
 Hi! I’m 16 years old
 I am an Aquarius,
 I have one sibling 
+My favorite color is pink
+I live in Raleigh
 ## My Intrests 
 I love cooking—it’s one of my favorite ways to get creative and try new things. 
 In addition to cooking, I enjoy binge-watching shows 
